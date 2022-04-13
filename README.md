@@ -1,5 +1,7 @@
 # Black_jack_game
-coding a black jack game using python language
+#coding a black jack game using python language
+
+
 ############### Our Blackjack House Rules #####################
 ## The deck is unlimited in size. 
 ## There are no jokers. 
